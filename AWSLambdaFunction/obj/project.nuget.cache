@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "sn4sMZWXeV1XJd9jCrP7YJ4rFg3O67ebzt59W9d6BWql1JfCp/0ZA0BlLxVEHF6UYUp2EQQ66gw5ar/eegQQ3A==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\AWSLambdaFunction\\AWSLambdaFunction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\amazon.lambda.core\\1.1.0\\amazon.lambda.core.1.1.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\amazon.lambda.s3events\\1.1.0\\amazon.lambda.s3events.1.1.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.0.0\\amazon.lambda.serialization.systemtextjson.2.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\awssdk.core\\3.3.106.12\\awssdk.core.3.3.106.12.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\awssdk.s3\\3.3.110.58\\awssdk.s3.3.3.110.58.nupkg.sha512"
+  ],
+  "logs": []
+}

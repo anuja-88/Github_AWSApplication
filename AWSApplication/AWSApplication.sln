@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWSApplication", "AWSApplication\AWSApplication.csproj", "{24DF5144-DF12-49B8-BF86-49594C3028A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24DF5144-DF12-49B8-BF86-49594C3028A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24DF5144-DF12-49B8-BF86-49594C3028A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24DF5144-DF12-49B8-BF86-49594C3028A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24DF5144-DF12-49B8-BF86-49594C3028A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACD1ABBC-5625-40FB-A646-967F51CE4351}
+	EndGlobalSection
+EndGlobal
